@@ -44,7 +44,7 @@ function Game({ startGame, setIsGameStarted }) {
 
   const inputArray = [
     { val: '60', ti: '1000', len: '100' },
-    { val: '62', ti: '1000', len: '200' },
+    { val: '62', ti: '1000', len: '300' },
     { val: '63', ti: '5000', len: '100' },
     { val: '64', ti: '5000', len: '200' },
     { val: '65', ti: '6000', len: '100' }
